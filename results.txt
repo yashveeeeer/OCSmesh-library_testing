@@ -1,0 +1,46 @@
+Starting raster and geom initialization...
+Raster and geom initialization time: 0.014259 seconds
+Raster for hfun initialization time: 0.000718 seconds
+Initializing hfun...
+we are inside the hfun hfun/hfun.py
+Hfun initialization time: 0.004022 seconds
+Adding flow limiter...
+Flow limiter addition time: 0.088716 seconds
+Adding constant value...
+Constant value addition time: 0.093729 seconds
+Adding contours...
+Contour addition (0m) time: 0.488932 seconds
+Contour addition (-10m) time: 0.337419 seconds
+Total script execution time: 1.027983 seconds
+Creating mesh...
+we are inside the driver /driver.py
+Starting mesh generation...
+we are inside the driver /driver.py
+hii we are in the mesh hfun/raster.py
+in utm crs
+outside utm crs hfun/raster.py
+ehat the fuck hfun/raster.py
+time counting {0.06553506851196289}
+haha hfun/raster.py
+we are in jigsaw hfun/raster.py
+we are out of jigsaw hfun/raster.py
+we are inside the  reproject ocsmesh/utils.py
+we are outside the  reproject function ocsmesh/utils.py
+we are out of mesh hfun/raster.py
+hfun.msh_t() time: 41.033090 seconds /driver.py
+output mesh initialized /driver.py
+Output mesh initialization time: 0.000026 seconds /driver.py
+mesh options setup /driver.py
+Mesh options setup time: 0.001309 seconds /driver.py
+geom.msh_t() time: 0.186444 seconds /driver.py
+jigsaw calling from driver started /driver.py
+Jigsaw meshing time: 76.938420 seconds /driver.py
+starting the post process /driver.py
+Empty mesh check time: 0.000018 seconds /driver.py
+Finalizing mesh time: 41.798208 seconds /driver.py
+Total run() execution time: 159.960611 seconds /driver.py
+Mesh generation complete.
+Interpolating raster data onto mesh...
+we are in interpolate ocsmesh/mesh/mesh.py
+Saving mesh to newmesh8.2dm...
+all done
