@@ -1,0 +1,32 @@
+Raster and geom initialization time: 0.005943 seconds
+Raster for hfun initialization time: 0.000481 seconds
+Hfun initialization time: 0.002121 seconds
+Flow limiter addition time: 0.100320 seconds
+Constant value addition time: 0.095903 seconds
+Contour addition (0m) time: 0.473160 seconds
+Contour addition (-10m) time: 0.361961 seconds
+Total script execution time: 1.040042 seconds
+jigsaw time: 30.252372 seconds
+reproject function took 1.3712529451586306 seconds
+Total time by the msh_t function: 32.602844 seconds
+hfun.msh_t() time: 32.637976 seconds /driver.py
+Output mesh initialization time: 0.000029 seconds /driver.py
+Mesh options setup time: 0.000935 seconds /driver.py
+geom.msh_t() time: 0.139442 seconds /driver.py
+jigsaw calling from driver started /driver.py
+Jigsaw meshing time: 49.858166 seconds /driver.py
+starting the post process /driver.py
+Empty mesh check time: 0.000004 seconds /driver.py
+Isolates cleanup time: 0.458752 seconds
+Get mesh polygons time: 13.015659 seconds
+Get sieve mask time: 0.372770 seconds
+Sieve by mask time: 0.545425 seconds
+Iter 1: Pinched: 0.947784s, Clip: 0.000001s, Sieve calc: 13.388488s, Sieve apply: 0.545595s
+Get mesh polygons time: 13.369384 seconds
+Get sieve mask time: 0.000225 seconds
+Isolates cleanup time: 0.393880 seconds
+Cleanup duplicates time: 1.690451 seconds
+Put id tags time: 0.306769 seconds
+Total time: 32.044152 seconds
+Finalizing mesh time: 32.044174 seconds /driver.py
+Total run() execution time: 114.680985 seconds /driver.py
