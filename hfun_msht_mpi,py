@@ -332,9 +332,9 @@ def msh_t(
   
 
 
-  #Original Implimentation of the msh_t() using multiprocessing module for the parallel process
+  # Original Implimentation of the msh_t() using multiprocessing module for the parallel process
 
-  ef msh_t(
+  def msh_t(
             self,
             window: Optional[rasterio.windows.Window] = None,
             marche: bool = False,
